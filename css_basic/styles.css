@@ -1,0 +1,24 @@
+html, body { height: 100%; }
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+  min-height: 0;
+}
+article {
+  flex: 2;
+  overflow-y: auto;
+  min-height: 0;
+}
+aside {
+  flex: 1;
+  overflow-y: auto;
+  min-height: 0;
+}
+header, main, footer { width: 100%; }
+header:hover { border-bottom-color: #999; }
