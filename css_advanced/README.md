@@ -21,6 +21,10 @@ css_advanced/
 1. Clone or download this repository
 2. Open `index.html`
 
+## Design Reference
+
+![SmileSchool Figma Design](https://i.imgur.com/7s2TTSA.jpeg)
+
 ## Author
 
 [Olais Julius Laizer](https://github.com/Olais11)
